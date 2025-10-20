@@ -1,0 +1,4 @@
+[submodule "isaac_lab"]
+	path = isaac_lab
+	url = https://github.com/maxboels/IsaacLab.git
+	branch = main

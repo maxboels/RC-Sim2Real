@@ -3,9 +3,6 @@ env_isaaclab/
 .venv/
 venv/
 
-# Isaac Lab (managed separately as its own git repo)
-isaac_lab/
-
 # Python
 __pycache__/
 *.py[cod]
