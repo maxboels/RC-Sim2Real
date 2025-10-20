@@ -1,0 +1,52 @@
+# Virtual Environment
+env_isaaclab/
+.venv/
+venv/
+
+# Isaac Lab (managed separately as its own git repo)
+isaac_lab/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+outputs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data
+data/
+datasets/
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Models
+models/
+checkpoints/
+*.pth
+*.pt
+*.onnx
